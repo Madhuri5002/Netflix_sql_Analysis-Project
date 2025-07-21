@@ -1,6 +1,7 @@
 # Netflix_sql_Analysis-Project
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FArpita-deb%2Fnetflix-movies-and-tv-shows&psig=AOvVaw2CmumXe9lsWsqnwMryaPX3&ust=1753192642924000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjVjtqNzo4DFQAAAAAdAAAAABAE)
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/89cb7f15-aebb-497c-9ccf-b753bf915f04" />
+
 
 ## Overview
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
